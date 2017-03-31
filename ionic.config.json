@@ -1,0 +1,12 @@
+{
+  "name": "Premier League",
+  "app_id": "6a1c9d3e",
+  "v2": true,
+  "typescript": true,
+  "proxies": [
+    {
+      "path": "/w/api.php",
+      "proxyUrl": "https://en.wikipedia.org/w/api.php"
+    }
+  ]
+}
